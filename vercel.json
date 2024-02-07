@@ -20,5 +20,6 @@
         "dest": "src/main.ts",
         "methods": ["GET", "HEAD", "PUT", "PATCH", "POST", "DELETE"]
       }
-    ]
+    ],
+    "public": false
   }
